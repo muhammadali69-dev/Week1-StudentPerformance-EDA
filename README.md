@@ -45,9 +45,7 @@ I used:
 Check out my other work here:
  [muhammadali69-dev](https://github.com/muhammadali69-dev)
 
----
 
-Thanks for reading! 
 
 
 
